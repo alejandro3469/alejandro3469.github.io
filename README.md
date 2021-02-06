@@ -1,3 +1,16 @@
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WordPress theme</title>
+</head>
+<body>
+    <p>sup</p>
+</body>
+</html>
+```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alejandro3469/alejandro3469.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
