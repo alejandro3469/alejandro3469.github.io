@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>alejandro3469.github.io</title>
 </head>
 <body>
     <h3>Hey there! <br> this is a collection of my projects</h3>
