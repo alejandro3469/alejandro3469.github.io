@@ -1,8 +1,8 @@
 :root {
     --primary: #ffffff;
     --primary_light: #ffffff;
-    --on_primary: #525151;
-    --secondary: #ffffff;
+    --on_primary: #424242;
+    --secondary: #536dfe;
 }
 *{
     margin: 0;
