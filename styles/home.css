@@ -1,0 +1,43 @@
+.banner{
+    float: left;
+    width: 50%;
+}
+.h3{
+    font-size: 61px;
+    opacity: 0.8;
+    line-height: 56px;
+}
+.banner_image{
+    width: 50%;
+    float: left;
+}
+/*  Media quieries  */
+@media screen and (max-width: 1024px) { /*tablets*/
+
+}
+@media screen and (max-width: 640px) { /*phones*/
+    .h3{
+        font-size: 48px;
+        line-height: 52px;
+    }
+    .banner{
+        width: 100%;
+    }
+    .banner_image{
+        width: 100%;
+        margin-top: 50px;
+    }
+}
+@media screen and (max-width: 300px) { /*phones*/
+    .h3{
+        font-size: 34px;
+        line-height: 36px;
+    }
+    .banner{
+        width: 100%;
+    }
+    .banner_image{
+        width: 100%;
+        margin-top: 50px;
+    }
+}
