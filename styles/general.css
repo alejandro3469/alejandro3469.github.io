@@ -21,7 +21,7 @@ body{
 
     display: flex;
     flex-flow: column;
-    height: 100vh;
+    height: 1vh;
 }
 a{
     color: var(--on_primary);
