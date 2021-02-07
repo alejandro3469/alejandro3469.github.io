@@ -13,7 +13,7 @@ body{
     max-width: 100vw;
     width: 100vw;
     overflow: hidden;
-    font-family: 'Montserrat';
+    font-family: 'Roboto', sans-serif;
     background-color: var(--primary);
 
     display: flex;
