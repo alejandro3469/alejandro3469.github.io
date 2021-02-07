@@ -10,3 +10,9 @@ function hide() {
     element.style.left= "-100%";
     denier.style.display= "none";
 }
+
+//fix vh
+window.addEventListener('resize', () => {
+    let vh = window.innerHeight * 0.01;
+    document.documentElement.style.setProperty('--vh', `${vh}px`);
+});
