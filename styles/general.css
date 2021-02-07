@@ -48,7 +48,7 @@ h2, h1{
     flex: 0 1 auto;
 }
 .logo{
-    color: var(--on_primary);
+    color: var(--secondary);
     font-weight: 900;   
     font-size: 16px;
     text-decoration: none;
@@ -71,6 +71,7 @@ h2, h1{
     font-weight: 600;
     white-space: nowrap;
     padding: 4px 6px;
+    display: none;
 }
 .nav_container ul li a:hover{
     opacity: 0.8;
