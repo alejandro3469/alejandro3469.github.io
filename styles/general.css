@@ -252,9 +252,13 @@ h2, h1{
     }
     .nav_container{
         display: none;
+        padding: 18px 8%;
     }
     .nav_container2{
         display: flex;
+    }
+    .footer_container{
+        padding: 18px 8%;
     }
 }
 @media screen and (max-width: 480px) {
