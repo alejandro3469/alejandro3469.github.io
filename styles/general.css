@@ -1,7 +1,7 @@
 :root {
     --primary: #ffffff;
     --primary_light: #ffffff;
-    --on_primary: #424242;
+    --on_primary: #000000;
     --secondary: #536dfe;
 }
 *{
