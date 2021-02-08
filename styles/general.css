@@ -185,6 +185,7 @@ h2, h1{
         margin-left: 30px;
         display: flex;
         list-style: none;
+        margin-left:0;
     }
     .nav_container ul{
         display: none;
