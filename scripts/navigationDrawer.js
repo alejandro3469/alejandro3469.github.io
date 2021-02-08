@@ -5,10 +5,10 @@ function show() {
   denier.style.display= "block";
 }
 function hide() {
-    var element = document.getElementById("drawer");
-    var denier = document.getElementById("denier");
-    element.style.left= "-100%";
-    denier.style.display= "none";
+  var element = document.getElementById("drawer");
+  var denier = document.getElementById("denier");
+  element.style.left= "-100%";
+  denier.style.display= "none";
 }
 
 //fix vh
